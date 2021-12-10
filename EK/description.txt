@@ -66,6 +66,8 @@ git
 			git branch -M main
 	push
 		добавляет локальный проект в удалённый репозиторий
+		git push origin remot-branch:remote-branch
+			изменяем имя ветки если ошиблись в названии
 	clone
 		колонируем проект
 
